@@ -1,0 +1,4 @@
+GET {{server}}/login
+
+###
+POST {{server}}/login
